@@ -1,23 +1,19 @@
 # 👨‍💻 **Hitesh Moota**
 
-### Data Analyst | Machine Learning Enthusiast | Building Scalable Data & ML Solutions
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+Machine+Learning+Practitioner;Turning+Data+into+Actionable+Insights;Focused+on+Analytics%2C+ML+%26+Real-World+Deployment" alt="Typing SVG" />
-</div>
+### Data Analyst | Machine Learning Practitioner | Data-Driven Decision Systems
 
 ---
 
-## 👋 About Me
+## 👋 Overview
 
-I am a **final-year B.E. student in Artificial Intelligence & Data Science**, with a strong interest in **Data Analytics, Machine Learning, and real-world ML deployment**.
+I am a **final-year B.E. student in Artificial Intelligence & Data Science** with a strong focus on **data analytics, machine learning, and production-ready ML solutions**. I work on transforming raw, unstructured data into **actionable insights** and deploy models that align with **real-world business and financial use cases**.
 
-I focus on building **end-to-end analytical and ML solutions**, starting from data understanding and preprocessing to model deployment and business-focused insights. My approach emphasizes **clarity, correctness, and production readiness** rather than experimentation alone.
+My interests lie at the intersection of **analytics, risk modeling, and scalable data systems**, where data quality, feature consistency, and interpretability are as important as model performance. I emphasize **clean data pipelines, structured analysis, and practical deployment** over purely experimental work.
 
 * 🎓 B.E. AI & DS (Final Year)
-* 📊 Strong foundation in Data Analysis & SQL
-* 🤖 Hands-on with ML model training & deployment
-* 🧠 Interested in finance, risk analytics & decision systems
+* 📊 Strong foundation in **Data Analysis, SQL & Warehousing**
+* 🤖 Hands-on experience in **ML training & deployment**
+* 🧠 Interested in **financial analytics, credit risk & decision systems**
 
 ---
 
@@ -25,94 +21,98 @@ I focus on building **end-to-end analytical and ML solutions**, starting from da
 
 ### **Data Analysis & Visualization**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
+* Python (Pandas, NumPy)
+* Exploratory Data Analysis (EDA)
+* Matplotlib, Seaborn
+* **Tableau** (Dashboards & Business Reporting)
+* Excel (Advanced formulas & analysis)
 
-### **Machine Learning**
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ML_Deployment-2E7D32?style=for-the-badge"/>
-</p>
+### **Databases & Data Warehousing**
 
-### **Programming & Tools**
+* **Snowflake**
+* MySQL
+* PostgreSQL
+* Data modeling & analytical queries
+* Data cleaning & transformation pipelines
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+---
+
+### **Machine Learning & Deep Learning**
+
+* scikit-learn
+* **PyTorch**
+* Supervised ML (Classification & Regression)
+* Feature engineering & preprocessing
+* Model evaluation & interpretability
+
+---
+
+### **Cloud & Infrastructure**
+
+* **AWS** (Basics: compute, storage, deployment concepts)
+* Model & data handling in cloud environments
+* Version-controlled ML workflows
+
+---
+
+### **Programming & Development Tools**
+
+* Python
+* SQL
+* Git & GitHub
+* Linux
+* Virtual environments & dependency management
+
+---
 
 ### **Web & Deployment**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MERN_Stack-2E7D32?style=for-the-badge"/>
-</p>
+* **Streamlit** (ML & analytics dashboards)
+* End-to-end ML inference pipelines
+* Data-driven web applications
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=HiteshMoota&show_icons=true&theme=github_dark&border_radius=10&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&border_color=30363d"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshMoota&layout=compact&langs_count=8&theme=github_dark&border_radius=10&bg_color=0d1117&title_color=0A66C2&text_color=c9d1d9&border_color=30363d"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshMoota&theme=github-dark-blue&border_radius=10&background=0D1117&border=30363D&stroke=0A66C2&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2"/>
-</div>
+*(Auto-rendered by GitHub)*
 
 ---
 
 ## 🏆 Highlights & Achievements
 
-* 🧩 Solved **1000+ DSA problems** across major platforms
+* 🧩 Solved **1000+ DSA problems** across major competitive platforms
 * 📈 Built **industry-style data analytics & ML projects**
-* 🔍 Hands-on experience in **credit risk & financial analytics**
-* 🧠 Strong debugging skills in ML deployment pipelines
-* 🛠️ Experience with end-to-end project workflows
+* 🔍 Hands-on experience with **credit risk & financial datasets**
+* 🧠 Strong debugging skills in **ML deployment pipelines**
+* 🛠️ Experience working across **data → model → deployment** lifecycle
 
 ---
 
 ## 🎯 Currently Focusing On
 
 * Data Analyst role preparation (SQL, EDA, dashboards)
-* Machine Learning model deployment
-* Financial analytics & risk modeling use cases
-* MERN stack for full-stack + data products
+* Advanced analytics using **Snowflake & Tableau**
+* Machine Learning model deployment & monitoring
+* Financial analytics & risk-based decision systems
+* Building end-to-end data products
 
 ---
 
 ## 📫 Let’s Connect
 
-<div align="center">
-<a href="https://www.linkedin.com/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/HiteshMoota">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</div>
+* 💼 LinkedIn
+* 📧 Email
+* 🧑‍💻 GitHub
+
+*(Links add kar sakta hai yahan)*
 
 ---
 
-<div align="center">
-<h3>“Focused on building practical, reliable, and industry-ready data solutions.”</h3>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Always+learning+%7C+Always+building+%7C+Always+improving"/>
-</div>
+## 🔥 Final Note
+
+This profile reflects my focus on **practical data analytics, machine learning, and real-world deployment**, rather than theoretical experimentation. I aim to build **reliable, scalable, and business-aligned data solutions**.
 
 ---
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=HiteshMoota&label=Profile%20Views&color=0A66C2&style=flat-square"/>
-</div>
