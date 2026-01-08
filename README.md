@@ -77,15 +77,9 @@ My interests lie at the intersection of **analytics, risk modeling, and scalable
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
-## 📊 GitHub Analytics
-
 - Active contributor to data analytics and ML projects  
 - Consistent problem-solving and project-based development  
 - Strong focus on clean, maintainable repositories  
-
-
 
 ## 🏆 Highlights & Achievements
 
