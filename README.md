@@ -107,7 +107,7 @@ My interests lie at the intersection of **analytics, risk modeling, and scalable
 * 📧 Email
 * 🧑‍💻 GitHub
 
-*(Links add kar sakta hai yahan)*
+*(https://www.linkedin.com/in/hitesh-moota-6699ba235/)*
 
 ---
 
