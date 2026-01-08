@@ -79,10 +79,12 @@ My interests lie at the intersection of **analytics, risk modeling, and scalable
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HiteshMoota&show_icons=true&theme=github_dark&border_radius=10"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshMoota&layout=compact&theme=github_dark&border_radius=10"/>
-</div>
+## 📊 GitHub Analytics
+
+- Active contributor to data analytics and ML projects  
+- Consistent problem-solving and project-based development  
+- Strong focus on clean, maintainable repositories  
+
 
 
 ## 🏆 Highlights & Achievements
